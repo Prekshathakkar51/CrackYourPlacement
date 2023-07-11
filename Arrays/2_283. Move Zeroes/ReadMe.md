@@ -26,3 +26,5 @@ Output: [0]
  
 
 ### Follow up: Could you minimize the total number of operations done?
+
+https://leetcode.com/problems/move-zeroes/
